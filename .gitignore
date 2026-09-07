@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+*.docx
+*.pdf
+node_modules/
+.tmp/

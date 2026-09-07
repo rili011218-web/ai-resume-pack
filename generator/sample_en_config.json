@@ -1,0 +1,76 @@
+{
+  "output": "resume_John_Zhang_EN.docx",
+  "info": {
+    "name": "John Zhang",
+    "meta": "Male ｜ Jan 2000 ｜ Shanghai, China",
+    "contact": "Phone +86 138-0000-0000 ｜ Email john.zhang@example.com",
+    "intent": "Objective: Internship in Strategy Consulting (Shanghai) | Available immediately"
+  },
+  "photo": "",
+  "style": {
+    "font": "微软雅黑",
+    "size": 10.5,
+    "heading_color": "#1F4E79"
+  },
+  "sections": [
+    {
+      "title": "EDUCATION",
+      "entries": [
+        {
+          "left": "University X ｜ MSc Finance (expected)",
+          "right": "Sep 2025 – Jun 2027",
+          "bullets": [
+            "Relevant coursework: Corporate Finance, Investments, Machine Learning, Data Analytics"
+          ]
+        },
+        {
+          "left": "University Y ｜ BSc Financial Management",
+          "right": "Sep 2020 – Jun 2024",
+          "bullets": [
+            "GPA 85/100; coursework in Accounting, Corporate Finance, Statistics"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "INTERNSHIP EXPERIENCE",
+      "entries": [
+        {
+          "left": "Consulting Firm Z ｜ Intern, Project Assistant",
+          "right": "Jun 2023 – Aug 2023",
+          "bullets": [
+            "Supported client interviews and prepared interview summaries",
+            "Collected and structured industry and company information",
+            "Drafted sections of preliminary project proposals"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PROJECTS",
+      "entries": [
+        {
+          "left": "Campus Community Platform (startup project)",
+          "right": "Sep 2022 – Jun 2024",
+          "sub": "Marketing Lead ｜ User growth",
+          "bullets": [
+            "Led product cold-start; grew users from 0 to thousands through multi-channel marketing",
+            "Drove data-informed iterations (A/B testing, funnel analysis); +several hundred users in the first month"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SKILLS & CERTIFICATES",
+      "entries": [
+        {
+          "bullets": [
+            "Tools: Excel (data processing & modeling), Microsoft Office",
+            "Languages: English (CET-4), Mandarin (native)",
+            "Soft skills: coordination, communication, fast learning"
+          ]
+        }
+      ]
+    }
+  ]
+}
